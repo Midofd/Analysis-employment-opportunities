@@ -1,0 +1,284 @@
+,Requirment
+1,.NET
+2,3D Reconstruction
+3,3D graphics
+4,A/B testing
+5,AGI
+6,AI art
+7,AI content
+8,AI governance
+9,AI strategy
+10,AIStats
+11,ANN
+12,API Development
+13,APIs
+14,ASR
+15,AWS
+16,Agile
+17,Airflow
+18,Airtable
+19,Alpaca
+20,Amplitude
+21,Anaconda
+22,Angular
+23,Ansible
+24,Architecture
+25,Arrow
+26,Athena
+27,Autonomous Driving
+28,Autoregressive models
+29,Avro
+30,Azkaban
+31,Azure
+32,BERT
+33,Banking
+34,Bayesian
+35,Big Data
+36,BigQuery
+37,Bigtable
+38,Biochemistry
+39,Biology
+40,Bitbucket
+41,Blockchain
+42,Business Analytics
+43,Business Intelligence
+44,C++
+45,CAD
+46,CI/CD
+47,CMake
+48,CSV
+49,CUDA
+50,CX
+51,Caffe
+52,Cassandra
+53,Causal inference
+54,ChatGPT
+55,Chatbots
+56,Chemistry
+57,Circuit Design
+58,Classification
+59,Clinical NLP
+60,Clojure
+61,Cluster analysis
+62,Clustering
+63,Computer Science
+64,Computer Vision
+65,Consulting
+66,Consulting firm
+67,Content creation
+68,Conversational AI
+69,Copywriting
+70,Core ML
+71,CoreML
+72,Credit risk
+73,Crypto
+74,Cybernetics
+75,D3
+76,DALL-E
+77,DB2
+78,DICOM
+79,Dagster
+80,Data Analytics
+81,Data Mining
+82,Data Studio
+83,Data Warehousing
+84,Data analysis
+85,Data governance
+86,Data management
+87,Data pipelines
+88,Data quality
+89,Data strategy
+90,Data visualization
+91,Data warehouse
+92,DataOps
+93,DataRobot
+94,Databricks
+95,Dataflow
+96,Dataproc
+97,Deep Learning
+98,DevOps
+99,Diffusion models
+100,Distributed Systems
+101,Django
+102,Docker
+103,Drivers license
+104,Drones
+105,Drug discovery
+106,DynamoDB
+107,E-commerce
+108,EC2
+109,ECS
+110,EDA
+111,ELK
+112,ELT
+113,EMNLP
+114,ETL
+115,Econometrics
+116,Economics
+117,Elasticsearch
+118,Elixir
+119,Engineering
+120,Excel
+121,Feature engineering
+122,FinTech
+123,Finance
+124,FiveTran
+125,Flask
+126,Flink
+127,Fortran
+128,Fraud risk
+129,GANs
+130,GCP
+131,GPT
+132,GPT-3
+133,GPT-4
+134,GPU
+135,Generative modeling
+136,Genetics
+137,Git
+138,GitHub
+139,GitLab
+140,GloVe
+141,Golang
+142,Google Cloud
+143,Grafana
+144,HBase
+145,HDFS
+146,HPC
+147,Hadoop
+148,Haystack
+149,Healthcare technology
+150,HiveQL
+151,Horovod
+152,HuggingFace
+153,ICLR
+154,ICML
+155,ISO 27001
+156,ITIL
+157,Industrial
+158,Informatica
+159,JAX
+160,JSON
+161,JavaScript
+162,Jira
+163,Julia
+164,Jupyter
+165,KNIME
+166,KPIs
+167,Kafka
+168,Kanban
+169,Keras
+170,Kibana
+171,Kinesis
+172,Kubeflow
+173,Kubernetes
+174,LLMs
+175,Lambda
+176,LangChain
+177,Lidar
+178,LightGBM
+179,Linear algebra
+180,Linux
+181,LookML
+182,Looker
+183,ML infrastructure
+184,ML models
+185,MLFlow
+186,MLOps
+187,MS SQL
+188,MXNet
+189,Machine Learning
+190,Machine intelligence
+191,Market research
+192,Mathematics
+193,Matlab
+194,Matplotlib
+195,Maven
+196,Metabase
+197,Microservices
+198,Minitab
+199,Model deployment
+200,Model design
+201,Model inference
+202,Model training
+203,MongoDB
+204,MySQL
+205,NLG
+206,NLP
+207,NLTK
+208,NeurIPS
+209,NoSQL
+210,Node.js
+211,Nonprofit
+212,NumPy
+213,OCR
+214,OKR
+215,OLAP
+216,OOP
+217,Open Source
+218,OpenAI
+219,OpenCV
+220,Oracle
+221,PHP
+222,Pandas
+223,Parquet
+224,Pentaho
+225,Periscope
+226,Perl
+227,PhD
+228,Physics
+229,Pipelines
+230,Plotly
+231,PostgreSQL
+232,Power BI
+233,Predictive modeling
+234,Privacy
+235,Prototyping
+236,PySpark
+237,PyTorch
+238,Python
+239,Qlik
+240,QlikView
+241,R
+242,R&D
+243,RDBMS
+244,REST API
+245,React
+246,Recommender systems
+247,Redshift
+248,Research
+249,Robotics
+250,Ruby
+251,SAS
+252,SDL
+253,SDLC
+254,SIMD
+255,SLAM
+256,SQL
+257,SSIS
+258,STEM
+259,Scala
+260,Scrum
+261,Security
+262,SharePoint
+263,Snowflake
+264,Spark
+265,Splunk
+266,Statistics
+267,Streaming
+268,TDD
+269,Tableau
+270,Teaching
+271,TensorFlow
+272,Teradata
+273,Testing
+274,Transformers
+275,Travel
+276,TypeScript
+277,UX
+278,Unstructured data
+279,VR
+280,Vue
+281,XML
+282,cuDNN
+283,fastai
