@@ -39,7 +39,7 @@ Salary float
 )
 
 create table Affected_requirment(
-id_requirment int foreign key references requirment(id),
 id_job_offer int foreign key references job_offer(id),
+id_requirment int foreign key references requirment(id),
 primary key(id_requirment,id_job_offer)
 )
